@@ -43,7 +43,7 @@ One star: If the contract is successful, it will be one star and enjoy 100% of t
 
 Two-star: Directly recommend at least 3 one-stars and at least 10 teams; enjoy 100% of the first-generation income and 40% of the second-generation income;
 
-Samsung: Directly recommend 3 two-stars, enjoy 100% of the income of the first generation, 40% of the income of the second generation, and 20% of the income of the third generation;
+Three-star: Directly recommend 3 two-stars, enjoy 100% of the income of the first generation, 40% of the income of the second generation, and 20% of the income of the third generation;
 
 Four-star: Directly recommend 4 two-stars, enjoy 100% of the income of the first generation, 40% of the income of the second generation, 20% of the income of the third generation, and 2% of the income of the fourth generation;
 
