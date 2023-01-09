@@ -26,6 +26,8 @@ Binance Chain (Binance Smart Chain) and high-quality wallets are the most import
 
 Thanks to all users who have experienced and supported Binance Chain. I hope you can achieve your goals in Binance Smart Contracts and make your dreams come true. Thank you for your support and company.
 
+*****How do we make money?*****
+Profits come from our options bots operating on top exchanges like Binance and OKEX! Our platform will only deduct the minimum management fee. We also have blockchain business in the field of games and quantitative transactions, and return most of the profits to users. We also provide loans on liquidity and DEX, such as PancakeSwap, and all profits will be returned to our BNB users. Our star users can continue to benefit from it.
 
 *****_BNB Smart Contract_******
 
