@@ -39,8 +39,8 @@ political advantage:
 The BNB smart contract is a dapp commercial application based on the bnb public chain, which solves the trust problem between the participants and the platform, and all tasks are fully automatically executed on the BNB public chain.
 
 Static income: There are five types of contract packages,
-They are 0.5BNB, 1BNB, 3BNB, 5BNB, 10BNB
-Contract period: 7-30 days;
+There are 0.5BNB, 1BNB, 1.5BNB, 3BNB, 5BNB, 10BNB
+Contract period: 7-60 days;
 Daily income 0.4%-1.7%; monthly income 12%-51%
 Dynamic income:
 One star: If the contract is successful, it will be one star and enjoy 100% of the first-generation income;
