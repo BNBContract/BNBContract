@@ -26,6 +26,8 @@ Binance Chain (Binance Smart Chain) and high-quality wallets are the most import
 
 We are closely following the significant progress and breakthroughs made by the Hong Kong Securities and Futures Commission in #Crypto regulation, which has resonated throughout the #Blockchain space, including the BSC blockchain, which is ready to embrace a game-changing revolution that will reshape the entire #crypto industry! Binance Fund will also explore the possibilities of ecological applications in encryption, such as Binance Web3.0, Metaverse, NFTs, chain games, decentralized areas, GPT-AI self-learning optimization, so stay tuned.
 
+Binance smart contract is highly valued and has triggered sensitive contracts. Please continue to develop in a healthy and sustainable manner and keep up the good work.
+
 Thanks to all users who have experienced and supported Binance Chain. I hope you can achieve your goals in Binance Smart Contracts and make your dreams come true. Thank you for your support and company.
 
 *****How do we make money?*****
