@@ -71,5 +71,6 @@ Regarding breach of contract:
 
 2. If no appointment is made again within ten days after the contract expires, the blockchain will automatically deduct the contract fee and the account will become invalid.
 
-
+Domain：https://www.bianse.io
+Alternate domain: https://bianse.netlify.app/
 The Binance Smart Chain technical team only charges 5%-10% of the collection fee as long-term maintenance and operation costs, please feel free to play the market sector. Best of luck.
