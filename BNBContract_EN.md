@@ -28,7 +28,7 @@ We are closely following the significant progress and breakthroughs made by the 
 
 Binance smart contract is highly valued and has triggered sensitive contracts. Please continue to develop in a healthy and sustainable manner and keep up the good work.
 
-Thanks to all users who have experienced and supported Binance Chain. I hope you can achieve your goals in Binance Smart Contracts and make your dreams come true. Thank you for your support and company.
+As the popularity of Binance Smart Chain continues to rise in the global market, the Binance Foundation is also closely monitoring the healthy development of the Binance ecosystem. In pursuit of a more sustainable and healthy mission, Binance Smart Contract has also received significant attention. We would like to remind everyone that Binance Smart Contract has unique flexible AI properties that cannot be manually intervened, and it has a powerful security protection trigger mechanism to maintain the long-term stability of the ecosystem. Please pay special attention to the celebrity accounts and maintain a certain level of activity within a monthly period. If inactive, the smart contract may automatically detect and cancel their earnings. We call upon all players to engage in healthy and positive development practices.
 
 *****How do we make money?*****
 Profits come from our options bots operating on top exchanges like Binance and OKEX! Our platform will only deduct the minimum management fee. We also have blockchain business in the field of games and quantitative transactions, and return most of the profits to users. We also provide loans on liquidity and DEX, such as PancakeSwap, and all profits will be returned to our BNB users. Our star users can continue to benefit from it.
